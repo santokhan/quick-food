@@ -1,0 +1,19 @@
+{
+  "name": "quick-food",
+  "version": "1.0.0",
+  "description": "Food delivery service.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santokhan/quick-food.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santokhan/quick-food/issues"
+  },
+  "homepage": "https://github.com/santokhan/quick-food#readme"
+}
