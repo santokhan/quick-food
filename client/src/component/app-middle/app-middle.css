@@ -3,3 +3,7 @@
     height: 100%;
     overflow: auto;
 }
+
+.capsule {
+    border-radius: 100px;
+}
