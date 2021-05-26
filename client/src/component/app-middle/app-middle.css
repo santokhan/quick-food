@@ -7,3 +7,10 @@
 .capsule {
     border-radius: 100px;
 }
+
+.app-middle .icon-container {
+    color: white;
+    width: 36px;
+    height: 36px;
+    border-radius: 0.75rem;
+}
