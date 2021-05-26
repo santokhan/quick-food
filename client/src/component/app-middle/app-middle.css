@@ -4,7 +4,7 @@
     overflow: auto;
 }
 
-.capsule {
+.app-middle .capsule {
     border-radius: 100px;
 }
 
@@ -13,4 +13,26 @@
     width: 36px;
     height: 36px;
     border-radius: 0.75rem;
+    box-shadow: 0 0 0.75rem rgba(255, 0, 0, 0.3);
 }
+
+.app-middle .banner {
+    background-color: #f0f3fe;
+}
+
+.app-middle .food-card-menu {
+    width: 220px;
+    height: 150px;
+    border-radius: 1.25rem;
+}
+
+.card-img-container {
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top: -50%;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.card-img-container img {}
