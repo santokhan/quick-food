@@ -30,8 +30,28 @@ export default function AppMiddle() {
                     <div className="col">
                         <h5>Favorite Food Category</h5>
                         <div className="d-flex">
-                            <div className="d-flex flex-column">
-                                <i className="fas fa-envelope bg-danger icon-container p-2"></i>
+                            <div className="d-flex flex-column align-items-center m-3">
+                                <div className="icon-container bg-danger d-flex justify-content-center align-items-center bg-gradient">
+                                    <i className="fas fa-envelope"></i>
+                                </div>
+                                <div>All</div>
+                            </div>
+                            <div className="d-flex flex-column align-items-center m-3">
+                                <div className="icon-container bg-danger d-flex justify-content-center align-items-center bg-gradient">
+                                    <i className="fas fa-envelope"></i>
+                                </div>
+                                <div>All</div>
+                            </div>
+                            <div className="d-flex flex-column align-items-center m-3">
+                                <div className="icon-container bg-danger d-flex justify-content-center align-items-center bg-gradient">
+                                    <i className="fas fa-envelope"></i>
+                                </div>
+                                <div>All</div>
+                            </div>
+                            <div className="d-flex flex-column align-items-center m-3">
+                                <div className="icon-container bg-danger d-flex justify-content-center align-items-center bg-gradient">
+                                    <i className="fas fa-envelope"></i>
+                                </div>
                                 <div>All</div>
                             </div>
                         </div>
