@@ -1,5 +1,5 @@
 .app-right-bar {
-    width: 30%;
+    width: 20%;
     height: 100%;
-    border: 4px solid#555555;
+    background-color: #ffdddd;
 }
