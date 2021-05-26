@@ -6,7 +6,7 @@ import AppRightBar from './component/app-right-bar/app-right-bar';
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <AppLeftBar />
       <AppMiddle />
       <AppRightBar />
