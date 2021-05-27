@@ -50,6 +50,7 @@ export default function AppMiddle() {
                         <a href="/client/public/index.html" className="btn btn-outline-dark bg-gradient capsule">Add to cart</a>
                     </div>
                 </div>
+
                 {/* Banner */}
                 <div className="row d-flex justify-content-between bg-gradient rounded banner m-3">
                     <div className="col-lg p-lg-4">
