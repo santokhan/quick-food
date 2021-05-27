@@ -16,7 +16,7 @@ function FoodCard(name, price, amount) {
     return (
         <div className='food-card-menu p-lg-4 shadow d-flex flex-column align-items-center justify-content-start'>
             <div className='card-img-container'>
-                <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlx--HiIy8aXL1fakcp-WuuJ5qSixBbFS3sA&usqp=CAU'
+                <img src='https://youngmenshealthsite.org/wp-content/uploads/2015/05/iStock_000016515039Small.jpg'
                     alt='card-img' height='130%' />
             </div>
             <div>
